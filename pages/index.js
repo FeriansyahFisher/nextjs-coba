@@ -18,7 +18,7 @@ export default function Home({ allPostsData }) {
   return (
     <Layout home>
       <Head>
-        <title>Next js Coba</title>
+        <title>Nextjs to Netify testing</title>
       </Head>
       {/* Keep the existing code here */}
       <section className={utilStyles.headingMd}>
